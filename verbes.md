@@ -1,6 +1,6 @@
 # Règles de grammaire 　 pour les verbes
 
-## まえに, avant ...
+## まえに, avant de faire quelque
 
 Forme dictionnaire + まえ, pour dire avant quelque chose, par exemple くるまえに, avant de venir.
 [NOM] +　の　+ まえに, avec un nom (pas un verbe)
@@ -22,7 +22,7 @@ Pour trouver le bon radical
 
 La ない forme + on rajoute なければなりません.
 
-## ない　=> Ne pas faire
+## ない　+ てください=> Ne pas faire quelque chose
 
 Forme en ない + てください = "ne prenez pas de photo", par exemple
 

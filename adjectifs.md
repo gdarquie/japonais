@@ -1,6 +1,6 @@
 ## 2 Groupes d'adjectif
 
-- いけよし: ceux qui se terminent hors exception
+- いけよし: ceux qui se terminent en い hors exception
 - なけよし: les autres et exceptions (きれい)
 
 ## Devenir + adj
