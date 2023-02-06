@@ -34,3 +34,30 @@ Exemple: しゅくだいをしなこてもいいです, pas besoin de faire ses 
 ## Pouvoir faire quelque chose
 
 ふつう forme (= forme dictionnaire) + ことができます.
+
+## Avant de faire quelque chose
+
+ふつう forme (= forme dictionnaire) + まえに
+たべるまえにしゃしんおとります.
+
+## Transformer le verbe en nom
+
+ふつう forme (= forme dictionnaire) + ことです.
+
+## てけい = "te" forme
+
+### Verbe en て　+ ください
+
+S'il vous plait, faites quelque chose
+
+### Verbe en て　+ います
+
+Etre en train de faire quelque chose
+
+### Verbe en て　+ もいです
+
+Avoir la permission, par exemple: たばてもいです (avoir la permission de manger)
+
+### Verbe en て　+ はいけまえん
+
+Interdiction de faire quelque chose.
