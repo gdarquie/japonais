@@ -52,7 +52,8 @@ S'il vous plait, faites quelque chose
 
 ### Verbe en て　+ います
 
-Etre en train de faire quelque chose
+- Etre en train de faire quelque chose
+- Continuer une action qui a commencé dans le passé, ex: しています　=> connaître quelque chose (= j'ai fait l'action de connaître et je connais toujours)
 
 ### Verbe en て　+ もいです
 
