@@ -1,4 +1,4 @@
-# Règles de grammaire 　 pour les verbes
+# Règles de grammaire pour les verbes
 
 ## まえに, avant de faire quelque
 
