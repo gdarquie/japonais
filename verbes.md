@@ -62,3 +62,14 @@ Avoir la permission, par exemple: たばてもいです (avoir la permission de 
 ### Verbe en て　+ はいけまえん
 
 Interdiction de faire quelque chose.
+
+## た　 forme
+
+### た + ことがあります
+
+Avoir fait l'expérience.
+
+### Enumération de Verbes en た　+ り
+
+Faire plusieurs actions sans ordre précis : le dimanche je lis un livre, j'écoute la musique, etc.
+にｔちようびほんがくおきいたり、ほんおよだりします。
