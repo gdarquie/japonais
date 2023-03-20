@@ -22,11 +22,11 @@ Pour trouver le bon radical
 
 La ない forme + on rajoute なければなりません.
 
-## ない　+ てください=> Ne pas faire quelque chose
+## ない　+ てください => Ne pas faire quelque chose
 
 Forme en ない + てください = "ne prenez pas de photo", par exemple
 
-## Pas de besoin de faire qq chose
+## な forme =>   Pas de besoin de faire qq chose
 
 ない　 forme + なくてもいいです.
 Exemple: しゅくだいをしなこてもいいです, pas besoin de faire ses devoirs.
