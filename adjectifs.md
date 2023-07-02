@@ -18,8 +18,8 @@ En informal, l'adjectif est le même qu'en forme formelle mais sans です。
 Exemple: あつい
 
 なけよし
-Adjectif + た
-Exemple: きれいた
+Adjectif + だ
+Exemple: きれいだ
 
 #### négatif
 
