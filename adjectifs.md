@@ -8,26 +8,26 @@
 - pour les いけよし ADJ + く +　なります
 - pour les なけよし　 ADJ + に　+ なります
 
-## Forme informelle (à vérifier)
+## Forme informelle
 
 #### positif
 
-いけよし
+いけいようし
 Adjectif sans です.
 En informal, l'adjectif est le même qu'en forme formelle mais sans です。
 Exemple: あつい
 
-なけよし
+なけいようし
 Adjectif + だ
 Exemple: きれいだ
 
 #### négatif
 
-いけよし
+いけいようし
 Adjectif sans i + くない
 Exemple: あつくない
 
-いけよし
+なけいようし
 Adj + じゃない
 Exemple: きれいじゃない
 
@@ -35,20 +35,22 @@ Exemple: きれいじゃない
 
 #### positif
 
-いけよし
+いけいようし
 Comme pour la forme polie mais sans です.
+Adjectif sans i + かった　(sans です)
 Exemple: あつかった
 
-いけよし
+なけいようし
 Adjectif + だった
 Exemple: きれいだった
 
 #### négatif
 
-いけよし
+いけいようし
 Comme pour la forme polie mais sans です.
+Adjectif sans i + くなかった
 あつくなかった
 
-いけよし
+なけいようし
 Adjectif + じゃなかった	
 Exemple:　きれいじゃかつた
