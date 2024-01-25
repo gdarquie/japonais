@@ -8,7 +8,29 @@
 - pour les いけよし ADJ + く +　なります
 - pour les なけよし　 ADJ + に　+ なります
 
-## Forme informelle
+## Déclinaisons forme formelle
+
+### Présent
+
+いけいようし
+Adj + です
+あついです
+
+なけいようし
+Adj + です
+にぎやかです
+
+### Passé
+
+いけいようし
+Adjectif sans i + かった　avec です
+あつかったです
+
+なけいようし
+Adjectif + でした
+にぎやか　＋　でした
+
+## Déclinaison forme informelle
 
 #### positif
 
@@ -52,5 +74,6 @@ Adjectif sans i + くなかった
 あつくなかった
 
 なけいようし
+Comme pour la forme polie mais sans です.
 Adjectif + じゃなかった	
 Exemple:　きれいじゃかつた
